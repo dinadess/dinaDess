@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Laerice alias @dinadess
-- 👀 I’m interested in frontend dev coding using HTML, CSS & Javascript, reading and traveling.
-- 🌱 I’m currently learning Vue JS, Vuex, router and Pinia.
-- 💞️ I’m looking to collaborate on UI creation projects especially those concerning accessibility.
-- 📫 How to reach me ? That's a great question 😄! Well you can find me on LinkedIn here ==> Laerice Dessouassi
-- ❓⬇ Please check below all the projects I worked on. And if you've got any question, feel free to ask 🤠.
+- 👋 Hi, I’m Laerice Dessouassi alias @dinadess
+- 👀 I am a frontend web developper interested in accessibility, creative development, reading and traveling.
+- 🌱 I’m currently learning Vue JS & GSAP.
+- 💞️ I’m looking to collaborate on UI projects especially those concerning accessibility.
+- 📫 How to reach me? I am available on Linkedin just here => linkedin.com/in/laerice-dessouassi
+- ❓⬇ This repo contains a non exhaustive list of all projects I've worked on, be it simple integrations or more complex projects where I used Vue JS and consume APIs. Feel free to check them below 🤠.
 
 <!---
 dinadess/dinadess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
